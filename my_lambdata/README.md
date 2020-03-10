@@ -14,7 +14,12 @@ pipenv install
 
 # Usage
 
-An example script, not what people will install or use when they install our package, just an example
+An example script, contains a function to check nulls, a function to split a dataframe,
+and exactly one knock knock joke. 
+
+from my_lambdata.split import split
+from my_lambdata.nulls import nulls
+import my_lambdata.knock_knock 
 
 '''sh
 python my_lambdata/my_script.py
