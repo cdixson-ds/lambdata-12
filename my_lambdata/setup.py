@@ -1,9 +1,10 @@
-from setuptools import find_packages, setup 
+import setuptools
+from setuptools import find_packages, setup
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
-setuptools.setup(
+setup(
     name="cdixson-ds-lambdata-12", 
     version="1.0",
     author="C Dixson",
@@ -12,6 +13,5 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="check for nulls, split a dataframe, tell me a knock knock joke",
     url="https://github.com/cdixson-ds/lambdata-12",
-    packages=setuptools.find_packages(),
-    python_requires='>=3.6',
+    packages=setuptools.find_packages()
 )
