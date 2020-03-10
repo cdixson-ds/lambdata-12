@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="cdixson-ds-lambdata-12", 
+    name="lambdatacdixson", 
     version="1.0",
     author="C Dixson",
     author_email="crystal.dixson@gmail.com",
