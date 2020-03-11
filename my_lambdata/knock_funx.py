@@ -1,5 +1,4 @@
-#my_lambdata/my_script.py
-
+#my_lambdata/knock_knock.py
 
 
 if __name__ == "__main__":
@@ -23,11 +22,4 @@ else:
        print(c)
 
     
-
-
-#print("Hello World")
-
-#df = pandas.DataFrame({"state": ["CT", "CO", "CA", "TX"]})
-#print(df.head())
-
 
