@@ -6,7 +6,6 @@
 cd path/to/lambdata-12
 '''
 
-
 Install package dependencies:
 '''sh
 pipenv install

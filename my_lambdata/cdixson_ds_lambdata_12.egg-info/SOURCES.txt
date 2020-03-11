@@ -1,0 +1,6 @@
+README.md
+setup.py
+cdixson_ds_lambdata_12.egg-info/PKG-INFO
+cdixson_ds_lambdata_12.egg-info/SOURCES.txt
+cdixson_ds_lambdata_12.egg-info/dependency_links.txt
+cdixson_ds_lambdata_12.egg-info/top_level.txt

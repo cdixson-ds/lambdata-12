@@ -1,5 +1,0 @@
-pandas
-numpy
-sendgrid==5.6.0
-sklearn.model_selection
-
